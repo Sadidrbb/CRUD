@@ -1,0 +1,22 @@
+body{
+    padding: 50px;
+}
+
+.container{
+    max-width: 600px;
+    max-height: 280px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.container img{
+    margin-left: 285px;
+    margin-bottom: 50px;
+    background: url(unpam.png) no-repeat center; opacity: 0.4;
+}
+
+.form-group{
+    margin-bottom: 30px;
+}
+
